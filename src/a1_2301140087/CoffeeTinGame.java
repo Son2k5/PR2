@@ -22,16 +22,16 @@ public class CoffeeTinGame {
      * create 21-3= is empty bean
      */
     static {
-        for(int i=0 ;i< 30; i++) {
-            if(i<10){
-                BeansBag[i] = BLUE;
+        int count =0;
+        for (char bean : BeansBag) {
+            if (count < 10) {
+                BeansBag[count] = BLUE;
+            } else if (count < 20) {
+                BeansBag[count] = GREEN;
+            } else {
+                BeansBag[count] = REMOVED;
             }
-            else if(i<20){
-                BeansBag[i] = GREEN;
-            }
-            else{
-                BeansBag[i] = REMOVED;
-            }
+            count++; // update
         }
     }
 
@@ -85,14 +85,14 @@ public class CoffeeTinGame {
     public static char tinGame(char[] tin) {
         while(hasAtLeastTwoBeans(tin)){
             char[] twoBeans = takeTwo(tin);
-            char b1 = twoBeans[0];
-            char b2 = twoBeans[1];
-            updateTin(tin, b1, b2);
+            char bean1 = twoBeans[0];
+            char bean2 = twoBeans[1];
+            updateTin(tin, bean1, bean2);
         }
         return anyBeans(tin);
     }
 
-    // Cteate method to check the number of beans
+    // Cteate method to check the number of beans is two or not
     public static boolean hasAtLeastTwoBeans(char[] tin) {
         int count =0;
         for(char i: tin){
@@ -109,19 +109,18 @@ public class CoffeeTinGame {
 
     //The method use to take 2 beans
     public static char[] takeTwo(char[] tin) {
-        char first = takeOne(tin);
-        char second = takeOne(tin);
-        return new char[]{first,second};
+        return new char[]{takeOne(tin), takeOne(tin)};
     }
 
     // the method use to take a single beans
     public static char takeOne(char[] tin) {
-        int a = randInt(tin.length);
-        while (tin[a] == REMOVED){
-            a = randInt(tin.length);
+        int position = randInt(tin.length);
+        while (tin[position] == REMOVED){
+            // this loop use to create a new position if value in it is null
+            position = randInt(tin.length);
         }
-        char bean = tin[a];
-        tin[a] = REMOVED;
+        char bean = tin[position];
+        tin[position] = REMOVED;
         return bean;
     }
 
@@ -134,27 +133,27 @@ public class CoffeeTinGame {
     //Create update beans to check two beans is blue or green
     public static void updateTin(char[] tin, char first, char second) {
         if(first == second){
-            char newBlue = getBean(BeansBag,BLUE);
-            putInt(tin, newBlue);
+            char newBlueBean = getBean(BeansBag,BLUE);
+            putInToTin(tin, newBlueBean);
 
         }else{
-            putInt(tin,GREEN);
+            putInToTin(tin,GREEN);
         }
     }
-
+    //this method use to take bean from tin that is the same color with blue bean
     public static char getBean(char[] beansBag, char beanType) {
-        int a= randInt(beansBag.length);
-        char bean = beansBag[a];
-        while(beansBag[a] != beanType){
-            a = randInt(beansBag.length);
-            bean = beansBag[a];
-        }
-        beansBag[a] = REMOVED;
-        return bean;
+        int value= randInt(beansBag.length);
+        char takeBean = beansBag[value];
+        do{
+            value = randInt(beansBag.length);
+            takeBean = beansBag[value];
+        }while(beansBag[value] != beanType);
+        beansBag[value] = REMOVED;
+        return takeBean;
     }
 
     // Method to put the bean to the tin
-    private static void putInt(char[] tin, char bean) {
+    private static void putInToTin(char[] tin, char bean) {
         for(int i =0; i< tin.length; i++){
             if(tin[i] == REMOVED){
                 tin[i] = bean;
@@ -163,9 +162,9 @@ public class CoffeeTinGame {
         }
     }
     private static char anyBeans(char[] tin) {
-        for(char bean: tin){
-            if(bean != REMOVED){
-                return bean;
+        for(int i =0; i< tin.length; i++){
+            if(tin[i] != REMOVED){
+                return tin[i];
             }
         }
         return NULL;
