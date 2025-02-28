@@ -1,6 +1,6 @@
 package Tut_6.problem2;
 
-enum Colors {
+public enum Colors {
     White,
     Black,
     Red,

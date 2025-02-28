@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="PR2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/PR2/a1_2301140087.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PR2/PR2_Tutorial3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PR2/Pr2_Tutorial2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PR2/Pr2_Tutorial1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
