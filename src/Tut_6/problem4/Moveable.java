@@ -1,6 +1,6 @@
 package Tut_6.problem4;
 
-public interface moveable {
+public interface Moveable {
     void moveUp();
     void moveDown();
     void moveLeft();

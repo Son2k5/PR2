@@ -64,8 +64,8 @@ public class maintest {
             ((SpecialAbility) vampire).teleport(new Point2D(3, 7));
         }
 
-        if (goblin instanceof Movable) {
-            ((Movable) goblin).moveUp();
+        if (goblin instanceof Moveable) {
+            ((Moveable) goblin).moveUp();
         }
     }
 }
