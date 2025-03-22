@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88923324-e14e-40ce-bd69-3e12a57162ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tut_7/Problem1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tut_7/Problem1/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut8/Problem1/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut8/Problem2/IntegerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem1/XFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem1/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem2/NotPossibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem2/XFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem2/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem3/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem3/NotPossibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem3/XFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem3/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem4/IOFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem4/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut9/problem4/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Goblin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/Goblin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/SpecialAbulity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/SpecialAbility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Vampire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/Vampire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/Zombie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/maintest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/maintest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut_6/problem4/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tut_7/Problem1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tut_7/Problem1/maintest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +51,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.IntegerSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.maintest.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PR2-main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,6 +67,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tut9.problem3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,10 +91,23 @@
       <workItem from="1740712648865" duration="2460000" />
       <workItem from="1740720216374" duration="818000" />
       <workItem from="1740971015444" duration="2764000" />
+      <workItem from="1742047733078" duration="6694000" />
+      <workItem from="1742604680446" duration="8971000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tut9/problem3/Matrix.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
