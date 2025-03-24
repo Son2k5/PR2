@@ -5,73 +5,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88923324-e14e-40ce-bd69-3e12a57162ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tut7/problem1/problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tut7/problem2/problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tut7/problem3/problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tut7/problem4/problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut_10/problem1/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut_10/problem2/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut_10/problem3/maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut_10/problem4/maintest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity2/Activity2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity3/Activity3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity5/Activity5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity5/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity1/Activity2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity2/Activity2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity3/actitvity3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity3/testdata.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity4/Activity4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity5/Activity5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PR2_Tutorial3_Activity1/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity1/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PR2_Tutorial3_Activity2/Activity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity2/Activity2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PR2_Tutorial3_Activity2/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity2/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PR2_Tutorial3_Activity3/Activity3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity3/Activity3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PR2_Tutorial3_Activity3/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity3/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PR2_Tutorial3_Activity4/Activity4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity4/Activity4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PR2_Tutorial3_Activity4/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity4/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem1/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem1/main_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem1/main_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem2/main_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem2/main_test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem3/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem3/main_test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem3/main_test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem4/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem4/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_4/problem4/maintest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut4/problem4/maintest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem1/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem1/Movable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem1/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem1/MovablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem1/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem1/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem1/maintest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem1/maintest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/Colors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/Shape2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/Shape2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/Shape2DCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/Shape2DCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem2/maintest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem2/maintest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem3/FireMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem3/FireMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem3/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem3/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem3/StoneMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem3/StoneMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem3/WaterMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem3/WaterMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem3/maintest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem3/maintest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Goblin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/Goblin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/Moveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/SpecialAbility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/SpecialAbility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Vampire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/Vampire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/Zombie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tut_6/problem4/maintest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut6/problem4/maintest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity2/Activity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut1/Pr2_Tutorial1_Activity2/Activity2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity3/Activity3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut1/Pr2_Tutorial1_Activity3/Activity3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity5/Activity5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut1/Pr2_Tutorial1_Activity5/Activity5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial1_Activity5/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut1/Pr2_Tutorial1_Activity5/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity1/Activity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut2/Pr2_Tutorial2_Activity1/Activity2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity2/Activity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut2/Pr2_Tutorial2_Activity2/Activity2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity3/actitvity3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut2/Pr2_Tutorial2_Activity3/actitvity3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity3/testdata.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut2/Pr2_Tutorial2_Activity3/testdata.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity4/Activity4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut2/Pr2_Tutorial2_Activity4/Activity4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/Pr2_Tutorial2_Activity5/Activity5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut2/Pr2_Tutorial2_Activity5/Activity5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial1/Pr2_Tutorial1_Activity1/problem_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut1/Pr2_Tutorial1_Activity1/problem_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/PR2_Tutorial3_Activity1/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/PR2_Tutorial3_Activity2/Activity2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/PR2_Tutorial3_Activity2/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/PR2_Tutorial3_Activity3/Activity3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/PR2_Tutorial3_Activity3/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/PR2_Tutorial3_Activity4/Activity4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/PR2_Tutorial3_Activity4/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem1/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem1/main_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem2/main_test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem3/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem3/main_test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem4/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_4/problem4/maintest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem1/Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem1/MovablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem1/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem1/maintest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/Colors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/Shape2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/Shape2DCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem2/maintest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem3/FireMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem3/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem3/StoneMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem3/WaterMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem3/maintest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem3/maintest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/Goblin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/Moveable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/SpecialAbility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/Vampire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/Zombie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_6/problem4/maintest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem1/SortPersonByNameAgeAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem1/problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem2/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem2/SortPersonByNameAgeAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem2/SortStudentByGpaDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem2/problem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/Semester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/SortCourseByCreditAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/SortCourseByDepartmentAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/SortCourseByNameAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/SortCourseBySemesterAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/StudentManageable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem3/problem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/LearningManagmentSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/Semester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/SortCourseByCreditAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/SortCourseBySemesterAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/SortPersonByNameAgeAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/SortStudentByGpaAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/StudentManageable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tut_7/problem4/problem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity1/problem_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity2/Activity2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity3/Activity3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity5/Activity5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PR2-main/Tutorial1/Pr2_Tutorial1_Activity5/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity1/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut3/PR2_Tutorial3_Activity1/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity2/Activity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut3/PR2_Tutorial3_Activity2/Activity2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity2/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut3/PR2_Tutorial3_Activity2/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity3/Activity3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut3/PR2_Tutorial3_Activity3/Activity3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity3/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut3/PR2_Tutorial3_Activity3/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity4/Activity4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut3/PR2_Tutorial3_Activity4/Activity4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut3/PR2_Tutorial3_Activity4/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tut3/PR2_Tutorial3_Activity4/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +111,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -98,28 +123,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.IntegerSum.executor": "Run",
-    "Application.maintest.executor": "Run",
-    "Application.problem1.executor": "Run",
-    "Application.problem2.executor": "Run",
-    "Application.problem3.executor": "Run",
-    "Application.problem4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/PR2-main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IntegerSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maintest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PR2-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Tut9.problem3" />
@@ -147,6 +172,10 @@
       <workItem from="1742047733078" duration="6694000" />
       <workItem from="1742604680446" duration="8971000" />
       <workItem from="1742633823701" duration="1019000" />
+      <workItem from="1742634991843" duration="55000" />
+      <workItem from="1742635101099" duration="27000" />
+      <workItem from="1742777385712" duration="8997000" />
+      <workItem from="1742786731453" duration="874000" />
     </task>
     <servers />
   </component>
